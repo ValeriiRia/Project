@@ -1,3 +1,3 @@
 Project Name: Project
-Technology: React Native
+Technology: React Native (Footer)
 Index Number: 112235
